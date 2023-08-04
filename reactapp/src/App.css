@@ -12,7 +12,13 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.BannerContainer {
+  padding: 1.4rem 10rem;
+  margin: 0.5rem auto;
+  word-spacing: 2px;
+  letter-spacing: 0.8px;
+  width: fit-content;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
